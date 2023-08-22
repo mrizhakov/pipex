@@ -1,0 +1,20 @@
+total 96
+drwxr-xr-x  3 mrizakov 2022_berlin  4096 Aug 22 14:51 .
+drwxr-xr-x 32 mrizakov 2022_berlin  4096 Aug 22 14:36 ..
+drwxr-xr-x  8 mrizakov 2022_berlin  4096 Aug 22 14:36 .git
+-rw-r--r--  1 mrizakov 2022_berlin  1291 Aug 22 14:36 Makefile
+-rw-r--r--  1 mrizakov 2022_berlin     0 Aug 22 14:51 out
+-rwxr-xr-x  1 mrizakov 2022_berlin     2 Aug 22 14:51 outfile
+-rwxr-xr-x  1 mrizakov 2022_berlin 21544 Aug 22 14:37 pipex
+-rw-r--r--  1 mrizakov 2022_berlin  3113 Aug 22 14:36 pipex.c
+-rw-r--r--  1 mrizakov 2022_berlin  2168 Aug 22 14:36 pipex.h
+-rw-r--r--  1 mrizakov 2022_berlin  4216 Aug 22 14:37 pipex.o
+-rw-r--r--  1 mrizakov 2022_berlin  1645 Aug 22 14:36 pipexutils1.c
+-rw-r--r--  1 mrizakov 2022_berlin  2264 Aug 22 14:37 pipexutils1.o
+-rw-r--r--  1 mrizakov 2022_berlin  2114 Aug 22 14:36 pipexutils2.c
+-rw-r--r--  1 mrizakov 2022_berlin  2584 Aug 22 14:37 pipexutils2.o
+-rw-r--r--  1 mrizakov 2022_berlin  3041 Aug 22 14:36 pipexutils3.c
+-rw-r--r--  1 mrizakov 2022_berlin  3128 Aug 22 14:37 pipexutils3.o
+-rw-r--r--  1 mrizakov 2022_berlin  1851 Aug 22 14:36 pipexutils.c
+-rw-r--r--  1 mrizakov 2022_berlin  2288 Aug 22 14:37 pipexutils.o
+-rw-r--r--  1 mrizakov 2022_berlin    28 Aug 22 14:40 testfile
